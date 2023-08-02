@@ -10,7 +10,7 @@ Than install prerequisites:
 
 ```bash
 
-python -m pip install operator time socket scapy
+python3 -m pip install operator time socket scapy
 
 ```
 
@@ -18,11 +18,11 @@ Than start the server, than the client ,than the sniffer (each in its own machin
 
 ```bash
 
-python -m server.py
+python3 -m server.py
 
-python -m client.py
+python3 -m client.py
 
-python -m sniffer.py
+python3 -m sniffer.py
 
 ```
 

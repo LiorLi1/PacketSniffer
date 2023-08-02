@@ -1,4 +1,4 @@
-# PacketSniffer
+# Python Packet Sniffer
  A Python Packet sniffer in a client - sever architecture utilizing the Scapy library.
 
 

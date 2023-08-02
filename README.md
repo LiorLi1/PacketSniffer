@@ -10,7 +10,7 @@ Than install prerequisites:
 
 ```bash
 
-python -m pip install operator time scapy
+python -m pip install operator time socket scapy
 
 ```
 
